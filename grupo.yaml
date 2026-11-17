@@ -1,11 +1,10 @@
 # Parametrização do agente do grupo. Copie para a raiz do projeto como grupo.yaml.
-grupo: "Grupo 2"
-negocio: "PlugSmart Recharge"
+grupo: "Grupo 3"
+negocio: "LAIfe"
 resumo: >
-  Rede de recarga compartilhada para veículos elétricos: motoristas encontram e reservam
-  horários; anfitriões definem quando disponibilizar seus carregadores e quanto cobrar.
-  Um agente de IA orienta os usuários e distribui a demanda entre os pontos.
-publico: "Motoristas de veículos elétricos e anfitriões com carregadores disponíveis"
+  Agente de IA que transforma documentos, apresentações, anotações e transcrições do usuário
+  em uma base pesquisável e responde perguntas indicando os trechos de origem.
+publico: "Profissionais, professores e estudantes que trabalham com muitos materiais"
 instrucoes_adicionais: ""
 
 agente:
